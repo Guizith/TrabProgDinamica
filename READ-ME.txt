@@ -1,0 +1,15 @@
+Análise e Complexidade de Algoritmos - CC5661 
+Prof. Guilherme Wachs
+
+Integrantes:
+Guilherme Henrique Moreira       22117039-2
+Victor de Moraes Milani		 22117053-3
+
+Link do projeto no GitHub:
+https://github.com/Guizith/TrabProgDinamica
+
+
+Temas:
+Fibonacci
+Menor quantidade de moedas para um determinado valor
+Sublista contigua de soma maxima
